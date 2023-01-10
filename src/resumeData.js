@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://BernardoQ.github.io/",
     "name": "Bernardo Quetglas",
     "role": "Frontend Developer",
     "linkedinId":"https://www.linkedin.com/in/bernardo-quetglas-116bb21b2/",
@@ -71,24 +71,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Perichon ",
+        "description":"Landing page for a local entrepreneurship",
+        "imgurl":"images/portfolio/LogoPerichon.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"El timbo",
+        "description":"Simple ecommerce for a local entrepreneurship",
+        "imgurl":"images/portfolio/Timbo.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Hilikus",
+        "description":"spa for a local tattoo",  
+        "imgurl":"images/portfolio/Hilikus.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"React Ecommerce",
+        "description":"ecommerce developed in react for Coderhouse final project",
+        "imgurl":"images/portfolio/LogoPerichon.jpg"
       }
     ],
     "testimonials":[
