@@ -2,9 +2,9 @@ let resumeData = {
     "imagebaseurl":"https://BernardoQ.github.io/",
     "name": "Bernardo Quetglas",
     "role": "Frontend Developer",
-    "linkedinId":"https://www.linkedin.com/in/bernardo-quetglas-116bb21b2/",
+    "linkedinId": " bernardo_quetglas@hotmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,8 +22,8 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently ...",
-    "address":"Argentina",
+    "aboutme":"I live in Argentina, currently working at my family company while learningn and improving my coding skills. Cat lover and videogames lover  ...",
+    "address":"Corrientes, Argentina",
     "website":"https://github.com/BernardoQ",
     "education":[
       {
