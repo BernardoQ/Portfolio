@@ -50,10 +50,10 @@ let resumeData = {
         "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Freelance",
+        "specialization":"Translator Spanish-English ",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2006",
         "Achievements":"Some Achievements"
       }
     ],
@@ -73,22 +73,27 @@ let resumeData = {
       {
         "name":"Perichon ",
         "description":"Landing page for a local entrepreneurship",
-        "imgurl":"images/portfolio/LogoPerichon.jpg"
+        "imgurl":"images/portfolio/LogoPerichon.jpg",
+        "url":"https://github.com/BernardoQ/Perichon-Quetglas"
+
       },
       {
         "name":"El timbo",
         "description":"Simple ecommerce for a local entrepreneurship",
-        "imgurl":"images/portfolio/Timbo.jpg"
+        "imgurl":"images/portfolio/Timbo.jpg",
+        "url":"https://github.com/BernardoQ/El-Timbo"
       },
       {
         "name":"Hilikus",
         "description":"spa for a local tattoo",  
-        "imgurl":"images/portfolio/Hilikus.jpg"
+        "imgurl":"images/portfolio/Hilikus.jpg",
+        "url":"https://github.com/BernardoQ/Hilikus-Tattoo"
       },
       {
         "name":"React Ecommerce",
         "description":"ecommerce developed in react for Coderhouse final project",
-        "imgurl":"images/portfolio/LogoPerichon.jpg"
+        "imgurl":"images/portfolio/LogoPerichon.jpg",
+        "url":"https://github.com/BernardoQ/PerichonReact-Quetglas"
       }
     ],
     "testimonials":[
